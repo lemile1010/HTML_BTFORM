@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Header */
+header{
+font-size: 2em;
+color: rgb(0, 0, 255);
+}
+/* Header End*/
+/*Main*/
+main{
+    padding: 0 10%;
+}
+label{
+    font-size: 16px;
+    color: darkblue;
+}
+.form-group{
+    padding: 10px;
+}
+.form-control{
+    border-radius: 5px;
+    padding: 5px;
+    color:brown;
+}
+.form-controlnhap{
+    background-color: rgba(255, 0, 0, 0.7);
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+.form-controlxoa{
+    background-color: rgba(255, 0, 0, 0.7);
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+/*End Main*/
